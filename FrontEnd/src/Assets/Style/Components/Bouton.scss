@@ -1,0 +1,27 @@
+.actions{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+
+   
+    & button{
+        font: inherit;
+        font-size: 2rm;
+        background-color: greenyellow;
+        padding: 1rem 4rem;
+        border-radius: 5px;
+        border: 1px solid black;
+        cursor: pointer;
+    }
+
+    & button:hover {
+        background-color: green;
+        border-color: greenyellow;
+        color: white;
+    }
+}
+
+
+

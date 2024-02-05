@@ -1,0 +1,36 @@
+// Styles pour le formulaire de contact
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    border-radius: 5px;
+
+    h2 {
+      font-size: 1.5rem;
+      margin-bottom: 20px;
+    }
+
+    form {
+      display: flex;
+      flex-direction:column;
+
+      label {
+        font-weight: bold;
+      }
+  
+      input, textarea {
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+  
+        &:focus {
+          outline: none;
+          border-color: #007bff;
+        }
+      }
+
+    }
+  }

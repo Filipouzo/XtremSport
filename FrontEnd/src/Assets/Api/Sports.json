@@ -1,0 +1,60 @@
+[
+
+    {
+        "id": "c67ab8a7",
+        "title": "Kitesurf",
+        "cover": "https://static9.depositphotos.com/1008336/1133/v/600/depositphotos_11335249-stock-illustration-kitesurfing.jpg",
+        "pictures": 
+            [
+            "https://st2.depositphotos.com/4319567/6938/i/450/depositphotos_69382037-stock-photo-handsome-man-kitesurfing.jpg",
+            "https://st2.depositphotos.com/1766186/6791/i/600/depositphotos_67913021-stock-photo-kitesurfing.jpg",
+            "https://st4.depositphotos.com/4319567/27486/i/600/depositphotos_274863304-stock-photo-surf-rides-hydrofoilkite.jpg"
+            ]
+    },
+
+
+    {
+        "id": "c67ab8a8",
+        "title": "SnowKite",
+        "cover": "https://st4.depositphotos.com/1026531/40182/v/600/depositphotos_401821334-stock-illustration-silhouettes-kite-surfer-ride-snowboard.jpg",
+        "pictures": 
+            [
+            "https://st2.depositphotos.com/7742794/50253/i/600/depositphotos_502539106-stock-photo-kitesurfer-relax-on-the-snow.jpg",
+            "https://st3.depositphotos.com/10669024/14356/i/600/depositphotos_143563377-stock-photo-russia-togliatti-25-february-2017.jpg",
+            "https://st2.depositphotos.com/7742794/50581/i/600/depositphotos_505812150-stock-photo-sporty-girl-stands-with-snow.jpg",
+            "https://st3.depositphotos.com/10669024/14356/i/600/depositphotos_143563605-stock-photo-russia-togliatti-25-february-2017.jpg"
+            ]
+    },
+
+
+    {
+        "id": "c67ab8a9",
+        "title": "Deltaplane",
+        "cover": "https://st.depositphotos.com/1815997/3022/v/600/depositphotos_30224907-stock-illustration-hang-glider-silhouette.jpg",
+        "pictures": 
+            [
+            "https://st2.depositphotos.com/1035224/6160/i/600/depositphotos_61602979-stock-photo-sports-radical.jpg",
+            "https://st4.depositphotos.com/1010463/30806/i/600/depositphotos_308064898-stock-photo-selfie-photo-of-hang-glider.jpg",
+            "https://st2.depositphotos.com/7272132/10125/i/600/depositphotos_101250272-stock-photo-hang-gliding-in-the-sunset.jpg",
+            "https://st3.depositphotos.com/2169563/15782/i/600/depositphotos_157828520-stock-photo-hang-glider-above-coast-of.jpg"
+            ]
+    },
+
+    {
+        "id": "c67ab8b9",
+        "title": "Parapente",
+        "cover": "https://st.depositphotos.com/1730187/4068/v/600/depositphotos_40683855-stock-illustration-paragliding-vector.jpg",
+        "pictures": 
+            [
+            "https://static3.depositphotos.com/1000800/177/i/600/depositphotos_1778087-stock-photo-flight-of-paroplane.jpg",
+            "https://st2.depositphotos.com/1834167/6743/i/600/depositphotos_67433019-stock-photo-paraglider-launching-from-snowy-slope.jpg",
+            "https://st.depositphotos.com/2481353/4306/i/600/depositphotos_43061405-stock-photo-parachutes.jpg",
+            "https://st3.depositphotos.com/2944235/17292/i/600/depositphotos_172923916-stock-photo-paragliding-mountains-high-blue-sky.jpg",
+            "https://st.depositphotos.com/1132725/2461/i/600/depositphotos_24613713-stock-photo-paragliding.jpg"
+            ]
+    }
+    
+
+
+
+]
